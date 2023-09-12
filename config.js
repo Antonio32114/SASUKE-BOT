@@ -69,7 +69,7 @@ global.gt = '𝐀𝐍𝐓𝐎𝐍𝐈𝐎'
 global.hadesbot = gt
 global.yt = 'https://youtu.be/aPu9wQi-z8U'
 global.youtube = yt
-global.md = 'https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git'
+global.md = 'https://github.com/Antonio32114/SASUKE-BOT.git'
 global.botxdf = md
 global.nn = 'https://chat.whatsapp.com/BaE0DLmcwqzLFauSfsYbbw'
 global.nngrupo = nn
@@ -95,8 +95,6 @@ global.mg = '*❗ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ʟᴏ ʜᴀ ᴜsᴀᴅᴏ ɪɴ�
 global.mal = mg
 global.eeg = '*📩ˢᵁ ᴿᴱᴾᴼᴿᵀᴱ ᴴᴬ ˢᴵᴰᴼ ᴱᴺⱽᴵᴬᴰᴼ📩*'
 global.envio = eeg
-global.des = '➟ *ᴏᴡɴᴇʀ:ᴏғᴄ➟ʏᴏᴠᴀɴɪ*\n➟ *Hola Bienvenid@ al menu de descargas usa los comandos que estan en la lista usalos de forma correcta*\n➟ *ᴄᴜᴇɴᴛᴀs ᴏғᴄ:* *https://atom.bio/ofc_yovani_hades*\n⬒ ─⟢⟨©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍⟩⟣─ ⬒\n\n⬒ ─⟢⟨ *DESCARGAS* ⟩⟣─ ⬒\n➟ *.wikipedia <busqueda>*\n➟ *.animeinfo <nombre>*\n➟ *.apk <nombre>*\n➟ *.play nombre de tu canción*\n➟ *.play2 nombre de tu video*\n➟ *.audio nombre de tu canción*\n➟ *.video nombre de tu video*\n➟ *.play3 nombre de tu canción,doc*\n➟ *.play4 nombre de tu video,doc*\n➟ *.Spotify nombre de tu canción*\n➟ *.Spotify2 nombre de tu canción,doc*\n➟ *.ytmp3 tu link  Audio*\n➟ *.ytmp4 tu link  video*\n➟ *.ytmp3doc link canción,doc*\n➟ *.ytmp4doc link video,doc*\n➟ *.facebook tu link de fb*\n➟ *.tiktok link de video tiktok*\n➟ *.mediafire link de mediafire*\n➟ *.twitter tu link de twt*\n➟ *.ig link de tu video en ig*\n➟ *.google resultados de google*\n➟ *.ytbuscar busqueda en Youtube*\n➟ *.gdrive link de drive*\n➟ *.whatmusic responde a una audio*'
-global.desgrupo = des
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*'
 global.exito = eg
 global.miku = '*hola bienvenido a la información de instalación del bot por favor puedes mirar el video de tutorial y hacer el mismo procedimiento si tienes alguna duda puedes comunicarmelo en el número fijado Espero que tengas suerte en la instalación*\n⬒ ─⟢⟨ *APK-TERMUX* ⟩⟣─ ⬒\n➟ https://www.mediafire.com/file/190g4b86nhyof7b/com.termux_118.apk/file?dkey=wfddtbi5jtj98\n⬒ ─⟢⟨ *OWNER* ⟩⟣─ ⬒\n➟ *Número para ayuda*\n➟ Wa.me/5212412377467\n⬒ ─⟢⟨ *TUTORIAL* ⟩⟣─ ⬒\n➟ https://youtu.be/LqXJpxICLtE\n⬒ ─⟢⟨ *COMANDOS* ⟩⟣─ ⬒\n➟ opción 1 estos comandos son para los que no pudieron hacer con los comandos normales estos comandos lo van a instalar solito \n➟ termux-setup-storage\n➟ pkg update -y && pkg upgrade -y && pkg install -y bash && pkg install -y wget && pkg install yarn\n➟ wget -O - https://raw.githubusercontent.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/master/install.sh | bash\n⬒ ─⟢⟨ *COMANDOS* ⟩⟣─ ⬒\n➟ *opción 2 de instalación\n➟ cd && termux-setup-storage\n➟ apt-get update -y && apt-get upgrade -y\n➟ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n➟ git clone https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git && cd HATSUNE-MIKU-ULTRA\n➟ yarn \n➟ npm install\n➟ npm update\n➟ npm start\n⬒ ─⟢⟨ *ACTIVAR* ⟩⟣─ ⬒\n➟ cd HATSUNE-MIKU-ULTRA\n➟ npm start\n⬒ ─⟢⟨ *CÓDIGO* ⟩⟣─ ⬒\n➟ *pide otro código*\n➟ cd HATSUNE-MIKU-ULTRA\n➟ rm -rf Session-activa\n➟ npm start'
