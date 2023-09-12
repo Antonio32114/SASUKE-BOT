@@ -25,8 +25,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## 👑EDITOR Y PROPIETARIO DEL BOT👑
-<a href="https://github.com/Antonio32114"><img src="https://github.com/Antonio32114.png" width="300" height="300" alt="elrebelde21"/></a>
+<a href="https://github.com/Antonio32114"><img src="https://github.com/Antonio32114.png" width="300" height="300" alt="Antonio32114"/></a>
 
 
 ## `COLABORADORES DEL BOT` 
-<a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="200" height="200" alt="SinNombre999"/></a>
+<a href="https://github.com/OFC-YOVANI"><img src="https://github.com/OFC-YOVANI.png" width="200" height="200" alt="OFC-YOVANI"/></a>
