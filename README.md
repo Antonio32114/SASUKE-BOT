@@ -15,8 +15,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/ALBERTO9883/NyanCatBot-MD
-> cd NyanCatBot-MD
+> git clone https://github.com/Antonio32114/SASUKE-BOT
+> cd SASUKE-BOT
 > npm i
 > npm update
 > yarn install
@@ -24,5 +24,9 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```
 
 
-## 👑propietario👑
+## 👑EDITOR Y PROPIETARIO DEL BOT👑
 <a href="https://github.com/Antonio32114"><img src="https://github.com/Antonio32114.png" width="300" height="300" alt="elrebelde21"/></a>
+
+
+## `COLABORADORES DEL BOT` 
+<a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="200" height="200" alt="SinNombre999"/></a>
