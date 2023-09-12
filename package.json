@@ -1,7 +1,7 @@
 {
     "name": "Sasuke Bot",
     "version": "1.0.0",
-    "description": "SUSCRÍBETE A NUESTRO CANAL DE YOUTUBE HADES-BOT",
+    "description": "NO TE OLVIDES DEJAR TU ESTTELLA EN EL REPOSITORIO OFC DEL BOT 🔥",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -13,16 +13,16 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA",
+    "homepage": "https://github.com/Antonio32114/SASUKE-BOT",
     "author": {
         "name": "ANTONIO"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA.git"
+        "url": "git+https://github.com/Antonio32114/SASUKE-BOT.git"
     },
     "bugs": {
-        "url": "https://github.com/OFC-YOVANI/HATSUNE-MIKU-ULTRA/issues"
+        "url": "https://github.com/Antonio32114/SASUKE-BOT/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
