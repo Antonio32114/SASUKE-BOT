@@ -20,11 +20,11 @@ var document = doc[Math.floor(Math.random() * doc.length)]
 let str = `╔━━━⊱ 「 *${no}* 」━━━✕
 ┊ *𝗛ola, ${taguser}*
 ┊ *Owner:* ANTONIO
-┊ *Numero:* wa.me/50763596565*
+┊ *Numero:* wa.me/50763596565
 ┊ *Bot ofc:* wa.me/50760407691
-┊ *Fecha:* ${date}*
-┊ *Tiempo activo:* ${uptime}*
-┊ *Usuarios:* ${rtotalreg}*
+┊ *Fecha:* ${date}
+┊ *Tiempo activo:* ${uptime}
+┊ *Usuarios:* ${rtotalreg}
 ┗━━━━━━━━━━━━━━✕
 ┊
 ╔━━⊱*「 𝐒𝐄𝐑𝐁𝐎𝐓 」*━━✕
