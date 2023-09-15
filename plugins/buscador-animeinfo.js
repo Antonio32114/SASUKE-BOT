@@ -27,7 +27,8 @@ let AnimeInfo = `*ANIME*
 🌐 • *URL:* ${result.url}
 🎆 • *Background:* ${resultes.text}
 ❄ • *Ringkasan:* ${resultes2.text}
-⬒ ─⟢⟨©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍⟩⟣─ ⬒`
+
+𝐒𝐀𝐒𝐔𝐊𝐄  𝐁𝐎𝐓`
 conn.sendFile(m.chat, result.images.jpg.image_url, 'error.jpg', AnimeInfo, m)
 } catch {
 throw `${fg}`  
