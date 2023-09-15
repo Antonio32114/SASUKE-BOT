@@ -5,6 +5,6 @@ function handler(m) {
  handler.help = ['creador', 'programador'] 
  handler.tags = ['info'] 
   
- handler.command = /^(owner)$/i 
+ handler.command = /^(owner|creator|creador|propietario)$/i
   
  export default handler
