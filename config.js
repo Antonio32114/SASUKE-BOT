@@ -9,7 +9,7 @@ import moment from 'moment-timezone';
 
 global.owner = [
   ['50763596565', '𝐀𝐍𝐓𝐎𝐍𝐈𝐎 ', true],
-  ['5212412377467', '𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈 ', true],
+  ['522414147874', '𝐎𝐅𝐂 𝐘𝐎𝐕𝐀𝐍𝐈 ', true],
 ];
 global.suittag =['50763596565'];
 global.mods = []
