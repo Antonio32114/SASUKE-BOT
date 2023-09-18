@@ -131,7 +131,7 @@ const connectionOptions = {
     creds: state.creds,
     keys: makeCacheableSignalKeyStore(state.keys, pino({level: 'silent'})),
   },
-  browser: ['Uzumaki Bot','Safari','9.7.0'],
+  browser: ['Sasuke Bot','Safari','9.7.0'],
   version,
   defaultQueryTimeoutMs: undefined,
 };
