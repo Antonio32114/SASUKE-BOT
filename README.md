@@ -1,4 +1,4 @@
-<h1 align='center'>𝐒𝐀𝐒𝐔𝐊𝐄  𝐁𝐎𝐓</h1>
+<h1 align='center'>𝐍𝐄𝐗𝐔𝐒 𝐁𝐎𝐓</h1>
 
 
 ### `SI TIENES DUDAS CONTACTA A ESTOS NÚMEROS`
