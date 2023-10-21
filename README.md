@@ -16,7 +16,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/Antonio32114/SASUKE-BOT
-> cd SASUKE-BOT
+> cd NEXUS-BOT
 > npm i
 > npm update
 > yarn install
