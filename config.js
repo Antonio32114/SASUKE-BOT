@@ -111,7 +111,7 @@ global.yono = '➟ *ᴏᴡɴᴇʀ:ᴏғᴄ➟ʏᴏᴠᴀɴɪ*\n➟ *Hola Bienven
 global.yonogrupo = yono
 global.nnx = '➟ *ᴄᴜᴇɴᴛᴀs ᴏғᴄ:* *https://atom.bio/ofc_yovani_hades*⬒ ─⟢⟨©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍⟩⟣─ ⬒\n\n⬒ ─⟢⟨ *GRUPOS* ⟩⟣─ ⬒\n➟ *𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰*\n➟ https://chat.whatsapp.com/BuloWd29LSnDZHXtUJDybF\n➟ *𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰2*\n➟ https://chat.whatsapp.com/CJqwaDfrXP02oWl2WAf8rK\n➟ *𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰*\n➟ https://chat.whatsapp.com/BgyxmpSY2VYE3MT0UbLAgf\n➟ *𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰2*\n➟ https://chat.whatsapp.com/DpRVuXpKRF43iMOEtg85wz\n➟ *𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰3*\n➟ https://chat.whatsapp.com/LLCdXUAUjtVA8And8clsWu\n➟ *𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰4*\n➟ https://chat.whatsapp.com/DSb14IPCAaU0ZovBwA2ts0'
 global.nnxgrupo = nnx
-global.wm = '𝐀𝐍𝐓𝐎𝐍𝐈𝐎\n𝐒𝐀𝐒𝐔𝐊𝐄  𝐁𝐎𝐓'
+global.wm = '𝐀𝐍𝐓𝐎𝐍𝐈𝐎\n𝐍𝐄𝐗𝐔𝐒 𝐁𝐎𝐓'
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱'
 
 global.imagen1 = fs.readFileSync('./media/descargas.jpg')
